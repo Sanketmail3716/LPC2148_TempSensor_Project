@@ -35,6 +35,6 @@ This project is for educational and learning purposes.
 
 ## 🙋‍♂️ Author
 
-**Sanket M**  
+**Sanket Mali 
 Electronics and Telecommunication (BE)  
 PVGCOET Pune  
